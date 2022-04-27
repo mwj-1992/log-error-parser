@@ -19,12 +19,12 @@ to test parsing function.
 
 ```bash
 # compile source code
-npm compile
+npm run compile
 
 # run application in development mode
-npm dev
+npm run  dev
 
 # lint the application
-npm lint
+npm run lint
 ```
 
